@@ -1,5 +1,9 @@
 # game-of-life
 conway's game of life in assemly language
+#***** This is repository is paid project *******
+****** if you need this project's code then email me - systography@gmail.com *******
+
+#Price is fixed - 100$
 
 game of life in assembly language, now available in github,
 
