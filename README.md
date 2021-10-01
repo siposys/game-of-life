@@ -1,10 +1,10 @@
 # game-of-life
-# ***** This is repository is paid project *******
+# This is repository is paid project
 # Price is fixed - 100$
 
-conway's game of life in assemly language
+if you need this project's code then email me - systography@gmail.com
 
-****** if you need this project's code then email me - systography@gmail.com *******
+conway's game of life in assemly language
 
 game of life in assembly language, now available in github,
 
@@ -22,6 +22,3 @@ tasm gof.asm
 tlink gof.obj
 
 gof.exe
-
-****** This is repository is paid project *******
-*********** systography@gmail.com ***************
