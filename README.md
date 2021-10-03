@@ -23,4 +23,3 @@ gof.exe
 # This is repository is paid project
 # Price is fixed - 100$
 # if you need this project's code then email me - systography@gmail.com
-# https://www.upwork.com/workwith/manikchowdhury10
