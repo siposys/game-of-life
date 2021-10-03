@@ -1,4 +1,5 @@
-# game-of-life
+# game-of-life-in-assembly
+# game-of-life-in-assembly-language
 
 conway's game of life in assemly language, for more clearity check gof videos file.
 
